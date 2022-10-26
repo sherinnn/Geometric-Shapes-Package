@@ -1,3 +1,0 @@
-OneD
-ThreeD
-TwoD
