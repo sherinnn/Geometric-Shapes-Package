@@ -10,5 +10,6 @@ setuptools.setup(
     license='MIT',
     install_requires=[''],
     packages=setuptools.find_packages(where="GeoOpPackage"),
+    #py_modules=["arcLen","centAngle","circArea","circum","coneArea","cubeArea","cuboidArea","cylArea","OneDdistance","polArea","polPeri","pyrSurfArea","pyrVol","slope","sphArea","sumInterior","TwoDdistance"],
     package_dir={"": "GeoOpPackage"},
 )
