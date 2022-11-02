@@ -3,6 +3,7 @@ import setuptools
 setuptools.setup(
     name='GeoOpPackage',
     version='0.0.1',
+    url="https://github.com/sherinnn/Geometric-Shapes-Package",
     author='Sherin Thomas',
     author_email="tsherin140@gmail.com",
     description='Geometric operations package',
